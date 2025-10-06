@@ -1,4 +1,4 @@
-# Aasma_PES1UG23CS051_Ping_Pong
+# Aasma_PES1UG23CS008_Ping_Pong
 # 🏓 Ping Pong Game (Pygame)
 
 A simple **Ping Pong (Pong)** game built with **Python** and **Pygame**.
